@@ -24,4 +24,4 @@ C++
 
 ## Author
 
-Aparna Priya
+Aparnapriya N J
